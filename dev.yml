@@ -1,6 +1,6 @@
 name: product-taxonomy
 
-type: ruby
+type: rubyss
 
 up:
   - ruby: 3.3.0
